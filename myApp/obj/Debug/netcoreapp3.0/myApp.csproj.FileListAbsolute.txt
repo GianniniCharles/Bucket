@@ -1,0 +1,11 @@
+/Users/encompass/coding/Bucket/myApp/bin/Debug/netcoreapp3.0/myApp
+/Users/encompass/coding/Bucket/myApp/bin/Debug/netcoreapp3.0/myApp.deps.json
+/Users/encompass/coding/Bucket/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.json
+/Users/encompass/coding/Bucket/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.dev.json
+/Users/encompass/coding/Bucket/myApp/bin/Debug/netcoreapp3.0/myApp.dll
+/Users/encompass/coding/Bucket/myApp/bin/Debug/netcoreapp3.0/myApp.pdb
+/Users/encompass/coding/Bucket/myApp/obj/Debug/netcoreapp3.0/myApp.csprojAssemblyReference.cache
+/Users/encompass/coding/Bucket/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfoInputs.cache
+/Users/encompass/coding/Bucket/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfo.cs
+/Users/encompass/coding/Bucket/myApp/obj/Debug/netcoreapp3.0/myApp.dll
+/Users/encompass/coding/Bucket/myApp/obj/Debug/netcoreapp3.0/myApp.pdb
