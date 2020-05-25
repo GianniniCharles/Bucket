@@ -4,31 +4,31 @@ var str = "Hello, playground"
 
 
 protocol Worker {
+    
+    associatedtype Input
+    associatedtype Output
+    
     @discardableResult
     func start(input: Input) -> Output
 }
 
-protocol Input {}
-protocol Output {}
 
 
 class MailJob: Worker {
-    func start(input: Input) -> Output {
-        //send mail to emailAddress. input can be email
-        // return if successed.
-        let output: Output
-        return output
+//    typealias Input = String
+//    typealias Output = Bool
+    
+    func start(input: String) -> Bool {
+        return input.isEmpty
     }
 }
 
 class FileRemover: Worker {
+//    typealias Input = URL
+//    typealias Output = [String]
     
-    func start(input: Input) -> Output {
-        let output: Output
-        return output
-        //bad, not scalable.
+    func start(input: URL) -> [String] {
+        return [input.absoluteString]
     }
-    // input is url
-    // outpul is [string]
 }
 
